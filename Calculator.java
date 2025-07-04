@@ -4,7 +4,7 @@ public class Calculator  {
         int b = Integer.parseInt(str2);
 
         if(a < b){
-            for(int i = 0; i<10; i++){
+            for(int i = 0; i<50; i++){
                 System.out.println("!!!");
             }
         }else {
